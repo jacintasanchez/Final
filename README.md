@@ -57,7 +57,7 @@ Para niños o adultos hombres interesados en comprar réplicas de poleras de fú
 
 # Parsome
 
-**- Imágenes:**
+**- Imágenes:** ![Uploading ACCESORIOS.png…]()
 
 **- Descripción:** Sitio web que vende ropa urbana para mujeres. El sitio tiene una sección de ropa con fallas, la cual la venden más barata.
 
