@@ -2,6 +2,10 @@
 
 Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas de poleras de fútbol, a un precio más económico que una polera original.
 
+- - - - - - - - - - 
+
+## ¿PARA QUIÉN?
+
 ### Extremo 1
 
 - Cuadrante 1: Marcela, mamá de León le quiere regalar una polera de futbol para la navidad.
@@ -23,12 +27,6 @@ Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas d
 - Cuadrante 3: .
 - Cuadrante 4: .
 
-
-- - - - - - - - - - 
-
-## ¿PARA QUIÉN?
-
-Para niños o adultos hombres interesados en comprar réplicas de poleras de fútbol
 
 - - - - - - - - - - 
 
