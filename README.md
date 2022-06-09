@@ -107,6 +107,9 @@ Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas d
 
 **- Imágenes:**
 
+<img width="1057" alt="image" src="https://user-images.githubusercontent.com/101262395/172755221-7f7326b6-9868-458b-953b-fc05615215e6.png">
+
+
 **- Descripción:** Sitio web que vende zapatillas y ropa deportiva.
 
 **- Fuente:** https://www.nike.com/mx
@@ -120,6 +123,9 @@ Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas d
 ### Shopix
 
 **- Imágenes:**
+
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/101262395/172755074-c6a63ec2-eeaf-4269-a238-87c744390ace.png">
+
 
 **- Descripción:** Sitio web que vende cosas de todas las categorías, una de ellas es la sección poleras de fútbol.
 
