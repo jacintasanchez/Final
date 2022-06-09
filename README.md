@@ -2,21 +2,21 @@
 
 Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas de poleras de fútbol, a un precio más económico que una polera original.
 
-# Extremo 1
+### Extremo 1
 
 - Cuadrante 1: Marcela, mamá de León le quiere regalar una polera de futbol para la navidad.
 - Cuadrante 2: Ve que a su hijo le encanta el Barcelona.
 - Cuadrante 3: Mujer de 35 años que trabaja hace un tiempo.
 - Cuadrante 4: Entregarle el regalo soñado a su hijo para el día de navidad.
 
-# Promedio:
+### Promedio:
 
 - Cuadrante 1: Lucas, joven de 20 años fanático del fútbol.
 - Cuadrante 2: 
 - Cuadrante 3: 
 - Cuadrante 4: 
 
-# Extremo 2
+### Extremo 2
 
 - Cuadrante 1: .
 - Cuadrante 2: .
