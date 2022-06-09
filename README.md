@@ -34,7 +34,7 @@ Para niños o adultos hombres interesados en comprar réplicas de poleras de fú
 
 ## ANTECEDENTE 1
 
-# Decathlon
+### Decathlon
 
 **- Imágenes:**
 
@@ -46,9 +46,9 @@ Para niños o adultos hombres interesados en comprar réplicas de poleras de fú
 
 - - - - - - - - - - 
 
-### ANTECEDENTE 2
+## ANTECEDENTE 2
 
-# Tienda Cruzados
+### Tienda Cruzados
 
 **- Imágenes:**
 
@@ -60,9 +60,9 @@ Para niños o adultos hombres interesados en comprar réplicas de poleras de fú
 
 - - - - - - - - - - 
 
-### ANTECEDENTE 3
+## ANTECEDENTE 3
 
-# Roca & Co
+### Roca & Co
 
 **- Imágenes:**
 
@@ -74,9 +74,9 @@ Para niños o adultos hombres interesados en comprar réplicas de poleras de fú
 
 - - - - - - - - - -
 
-### ANTECEDENTE 4
+## ANTECEDENTE 4
 
-# Parsome
+### Parsome
 
 **- Imágenes:** ![Uploading ACCESORIOS.png…]()
 
@@ -88,9 +88,9 @@ Para niños o adultos hombres interesados en comprar réplicas de poleras de fú
 
 - - - - - - - - - -
 
-### ANTECEDENTE 5
+## ANTECEDENTE 5
 
-# Nike
+### Nike
 
 **- Imágenes:**
 
@@ -102,9 +102,9 @@ Para niños o adultos hombres interesados en comprar réplicas de poleras de fú
 
 - - - - - - - - - -
 
-### ANTECEDENTE 6
+## ANTECEDENTE 6
 
-# Shopix
+### Shopix
 
 **- Imágenes:**
 
