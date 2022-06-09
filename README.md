@@ -18,17 +18,17 @@ Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas d
 
 ### Promedio:
 
-- Cuadrante 1: Lucas, joven de 20 años fanático del fútbol.
-- Cuadrante 2: 
-- Cuadrante 3: 
-- Cuadrante 4: 
+- Cuadrante 1: Lucas, joven fanático del fútbol.
+- Cuadrante 2: Ve fútbol nacional e internacional, ya sea en el estadio o en la televisión.
+- Cuadrante 3: Joven de 20-25 años, estudiante o recién egresado.
+- Cuadrante 4: Tener todas las poleras de sus equipos favoritos.
 
 ### Extremo 2
 
-- Cuadrante 1: .
-- Cuadrante 2: .
-- Cuadrante 3: .
-- Cuadrante 4: .
+- Cuadrante 1: Josefina, polola, amiga o hermana que quiere regalar una polera de fútbol.
+- Cuadrante 2: Va al estadio con su pololo, amigo o hermano.
+- Cuadrante 3: Joven de 20-25 años, estudiante o recién egresada.
+- Cuadrante 4: Hacer feliz a su amigo, pololo o hermano fanático del fútbol.
 
 
 - - - - - - - - - - 
