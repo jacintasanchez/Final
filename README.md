@@ -53,6 +53,7 @@ Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas d
 
 
 **- Imágenes:**
+
 <img width="1110" alt="UNIVERSIDAD CATÓLICA" src="https://user-images.githubusercontent.com/101262395/172754524-ffb9a469-6a4d-4f82-82cf-45a53f94a63f.png">
 <img width="1093" alt="Pasted Graphic 2" src="https://user-images.githubusercontent.com/101262395/172754533-4030e94b-93e1-4c71-a147-189ebc46859c.png">
 <img width="1063" alt="Pasted Graphic 3" src="https://user-images.githubusercontent.com/101262395/172754570-111f0be5-3e8a-4ad1-ab15-d5363ed54479.png">
@@ -89,6 +90,7 @@ Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas d
 ### Parsome
 
 **- Imágenes:** 
+
 <img width="838" alt="ACCESORIOS" src="https://user-images.githubusercontent.com/101262395/172754616-31f49451-3c97-4ae9-9782-76ad6773c234.png">
 
 **- Descripción:** Sitio web que vende ropa urbana para mujeres. El sitio tiene una sección de ropa con fallas, la cual la venden más barata.
