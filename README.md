@@ -65,7 +65,9 @@ Sitio web que ofrece el servicio de compra para un emprendimiento de réplicas d
 
 ### Roca & Co
 
-**- Imágenes:**
+**- Imágenes:** 
+![Uploading Pasted Graphic 4.png…]()
+<img width="844" alt="Pasted Graphic 5" src="https://user-images.githubusercontent.com/101262395/172752932-e6a39e59-80bb-4eb5-865f-e2a48a00b975.png">
 
 **- Descripción:** Sitio web que vende vestidos elegantes.
 
